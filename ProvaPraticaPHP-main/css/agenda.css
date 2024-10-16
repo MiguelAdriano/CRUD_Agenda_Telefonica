@@ -1,0 +1,132 @@
+form{
+    width: auto;
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    padding: 25px;
+}
+input.elemento{
+	width:100%;
+	position:relative;
+}
+
+th.elemento1{
+	width:60%;
+	position:relative;
+}
+th.elemento2{
+	width:40%;
+	position:relative;
+}
+
+th.elemento3{
+	width:90px;
+	position:relative;
+}
+/*
+h1#h1{
+	color:#6633ff;
+}
+*/
+div#container{
+	background-color:#fffecf;
+}
+
+div#container2{
+	background-color:pink;
+}
+
+table#table{
+	background-color:#fffecf;
+}
+
+.agenda1 {
+        background-color: yellow;
+    }
+
+.agenda {
+            background-color: #fafad1;
+        }
+
+body{
+	margin: 0;
+	font-family: Arial;
+	text-align: center;
+}
+
+td{
+	font-family: Verdana;
+	text-align: left;
+}
+
+label{
+	display: inline-block;
+	width: 115px;
+	font-family: Arial;
+	}
+
+h1{
+   color: blue;
+ }
+
+h2{
+   color: red;
+   text-align: center;
+ }
+
+.agenda{
+        background-color: #fafad1;
+        }
+.tabela th {
+        background-color: #ffff99;
+        }
+
+
+/* 
+Estilo padrão para dispositivos de tamanho médio (como tablets) e superior 
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  width: 100%;
+  padding: 15px;
+}
+
+*/
+
+
+/* 
+
+Estilos para telas menores que 600px 
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: lightblue;
+  }
+}
+
+*/
+
+/* 
+Estilos para telas maiores que 600px, mas menores que 900px 
+@media only screen and (min-width: 600px) {
+  body {
+    background-color: lightgreen;
+  }
+}
+*/
+
+
+/* 
+Estilos para telas maiores que 900px 
+@media only screen and (min-width: 900px) {
+  body {
+    background-color: lightyellow;
+  }
+}
+
+*/
+
